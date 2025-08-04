@@ -1,0 +1,221 @@
+Tanggal,Kategori,Jenis,Harga Satuan,Jumlah Unit,Total Harga,Diskon,Musim/Event,Stok Awal,Jenis Transaksi,Bulan,Target Penjualan
+2022-10-18,Bantal,Bantal Lebaran,23392.0,40,935680.0,0.0,Hari Anak,116,Debit,10,49.0
+2020-06-02,Boneka,Boneka Beruang,23732.0,36,854352.0,5.0,Libur Sekolah,54,Debit,6,37.0
+2022-06-05,Boneka,Boneka Doraemon,17132.0,26,445432.0,15.0,Libur Sekolah,111,Debit,6,36.0
+2021-01-23,Boneka,Boneka Hello Kitty,12432.0,24,298368.0,15.0,Tahun Baru,87,Debit,1,19.0
+2023-10-04,Boneka,Boneka Doraemon,13926.0,17,236742.0,5.0,Hari Anak,119,Debit,10,16.0
+2020-08-13,Boneka,Boneka Hello Kitty,17775.0,32,568800.0,5.0,Kemerdekaan,110,Debit,8,37.0
+2022-07-24,Bantal,Bantal Leher,21799.0,15,326985.0,0.0,Normal,97,Debit,7,20.0
+2023-06-08,Boneka,Boneka Lebaran,21682.0,33,715506.0,5.0,Libur Sekolah,69,Debit,6,30.0
+2021-10-31,Boneka,Boneka Lebaran,10197.0,17,173349.0,5.0,Hari Anak,63,Debit,10,26.0
+2023-11-21,Bantal,Bantal Karakter,20562.0,10,205620.0,10.0,Normal,23,Debit,11,6.0
+2021-12-17,Bantal,Bantal Lebaran,12892.0,15,193380.0,5.0,Natal / Tahun Baru,97,Debit,12,22.0
+2020-12-23,Bantal,Bantal Natal,23588.0,47,1108636.0,10.0,Natal / Tahun Baru,33,Debit,12,42.0
+2022-11-22,Boneka,Boneka Hello Kitty,16043.0,6,96258.0,5.0,Normal,73,Debit,11,10.0
+2020-11-21,Bantal,Bantal Leher,21624.0,40,864960.0,15.0,Normal,68,Debit,11,39.0
+2021-06-13,Bantal,Bantal Karakter,24107.0,29,699103.0,15.0,Libur Sekolah,112,Debit,6,33.0
+2021-05-07,Boneka,Boneka Natal,22168.0,41,908888.0,0.0,Lebaran,36,Debit,5,42.0
+2020-02-20,Bantal,Bantal Natal,22256.0,21,467376.0,5.0,Imlek / Valentine,63,Debit,2,17.0
+2023-11-09,Bantal,Bantal Karakter,19248.0,15,288720.0,0.0,Normal,124,Debit,11,18.0
+2021-03-17,Bantal,Bantal Karakter,20386.0,17,346562.0,5.0,Normal,82,Debit,3,12.0
+2021-09-12,Bantal,Bantal Natal,17993.0,13,233909.0,15.0,Normal,80,Debit,9,11.0
+2022-11-16,Boneka,Boneka Hello Kitty,16918.0,37,625966.0,15.0,Normal,71,Debit,11,43.0
+2022-03-08,Boneka,Boneka Natal,22607.0,39,881673.0,10.0,Normal,109,Debit,3,48.0
+2022-08-11,Bantal,Bantal Natal,23094.0,50,1154700.0,0.0,Kemerdekaan,125,Debit,8,60.0
+2021-10-17,Bantal,Bantal Karakter,13933.0,7,97531.0,10.0,Hari Anak,102,Debit,10,5.0
+2021-06-24,Boneka,Boneka Lebaran,18885.0,31,585435.0,15.0,Libur Sekolah,99,Debit,6,31.0
+2023-04-10,Boneka,Boneka Hello Kitty,15846.0,14,221844.0,0.0,Ramadhan,67,Debit,4,11.0
+2021-12-06,Boneka,Boneka Hello Kitty,18858.0,46,867468.0,0.0,Natal / Tahun Baru,47,Debit,12,41.0
+2020-12-06,Bantal,Bantal Natal,11823.0,50,591150.0,10.0,Natal / Tahun Baru,90,Debit,12,60.0
+2020-05-31,Boneka,Boneka Natal,22203.0,32,710496.0,5.0,Lebaran,121,Debit,5,30.0
+2021-01-07,Bantal,Bantal Karakter,15314.0,16,245024.0,0.0,Tahun Baru,149,Debit,1,13.0
+2020-04-23,Bantal,Bantal Lebaran,14016.0,19,266304.0,10.0,Ramadhan,66,Debit,4,25.0
+2022-01-13,Bantal,Bantal Leher,12444.0,38,472872.0,5.0,Tahun Baru,34,Debit,1,39.0
+2020-12-25,Bantal,Bantal Karakter,16815.0,15,252225.0,15.0,Natal / Tahun Baru,80,Debit,12,11.0
+2020-06-06,Boneka,Boneka Minion,23490.0,47,1104030.0,10.0,Libur Sekolah,118,Debit,6,54.0
+2021-09-18,Bantal,Bantal Leher,12533.0,34,426122.0,5.0,Normal,141,Debit,9,35.0
+2021-03-18,Boneka,Boneka Doraemon,21315.0,44,937860.0,5.0,Normal,34,Debit,3,45.0
+2020-01-31,Boneka,Boneka Natal,23775.0,9,213975.0,0.0,Tahun Baru,67,Debit,1,7.0
+2021-10-11,Boneka,Boneka Minion,22103.0,47,1038841.0,0.0,Hari Anak,109,Debit,10,50.0
+2022-10-22,Bantal,Bantal Natal,18057.0,12,216684.0,5.0,Hari Anak,140,Debit,10,12.0
+2022-01-22,Bantal,Bantal Leher,13600.0,32,435200.0,0.0,Tahun Baru,98,Debit,1,30.0
+2020-05-24,Bantal,Bantal Leher,20894.0,44,919336.0,5.0,Lebaran,140,Debit,5,46.0
+2020-01-17,Boneka,Boneka Natal,16960.0,43,729280.0,0.0,Tahun Baru,63,Debit,1,40.0
+2021-07-14,Bantal,Bantal Leher,17512.0,21,367752.0,5.0,Normal,36,Debit,7,24.0
+2020-07-22,Boneka,Boneka Lebaran,21486.0,12,257832.0,0.0,Normal,79,Debit,7,16.0
+2022-02-18,Bantal,Bantal Karakter,13639.0,25,340975.0,15.0,Imlek / Valentine,129,Debit,2,21.0
+2023-09-02,Bantal,Bantal Lebaran,11046.0,23,254058.0,0.0,Normal,88,Debit,9,25.0
+2021-11-14,Bantal,Bantal Lebaran,13041.0,26,339066.0,0.0,Normal,63,Debit,11,26.0
+2022-12-15,Bantal,Bantal Polos,18411.0,40,736440.0,10.0,Natal / Tahun Baru,134,Debit,12,40.0
+2021-03-11,Boneka,Boneka Natal,22006.0,13,286078.0,5.0,Normal,141,Debit,3,22.0
+2021-01-01,Bantal,Bantal Karakter,12849.0,20,256980.0,10.0,Tahun Baru,60,Debit,1,30.0
+2020-03-13,Boneka,Boneka Lebaran,11788.0,47,554036.0,0.0,Normal,99,Debit,3,51.0
+2022-11-25,Bantal,Bantal Natal,19131.0,26,497406.0,5.0,Normal,76,Debit,11,24.0
+2020-05-21,Bantal,Bantal Natal,14071.0,30,422130.0,15.0,Lebaran,99,Debit,5,28.0
+2020-01-18,Bantal,Bantal Karakter,20382.0,48,978336.0,5.0,Tahun Baru,46,Debit,1,53.0
+2021-07-07,Bantal,Bantal Lebaran,16055.0,48,770640.0,5.0,Normal,102,Debit,7,51.0
+2020-07-16,Bantal,Bantal Lebaran,10883.0,39,424437.0,15.0,Normal,60,Debit,7,49.0
+2021-06-15,Bantal,Bantal Karakter,19387.0,35,678545.0,0.0,Libur Sekolah,113,Debit,6,42.0
+2022-03-08,Bantal,Bantal Karakter,16548.0,11,182028.0,10.0,Normal,83,Debit,3,13.0
+2021-11-13,Boneka,Boneka Beruang,12932.0,49,633668.0,10.0,Normal,69,Debit,11,45.0
+2023-10-13,Bantal,Bantal Leher,19237.0,34,654058.0,15.0,Hari Anak,61,Debit,10,36.0
+2022-11-26,Bantal,Bantal Polos,17390.0,5,86950.0,15.0,Normal,63,Debit,11,3.0
+2021-10-06,Boneka,Boneka Minion,15505.0,43,666715.0,15.0,Hari Anak,22,Debit,10,50.0
+2021-10-30,Boneka,Boneka Lebaran,22863.0,20,457260.0,5.0,Hari Anak,23,Debit,10,26.0
+2021-09-25,Boneka,Boneka Doraemon,13070.0,40,522800.0,10.0,Normal,79,Debit,9,48.0
+2021-03-09,Bantal,Bantal Polos,22274.0,34,757316.0,0.0,Normal,84,Debit,3,36.0
+2021-12-25,Bantal,Bantal Polos,10024.0,18,180432.0,10.0,Natal / Tahun Baru,117,Debit,12,19.0
+2021-06-21,Bantal,Bantal Leher,14345.0,12,172140.0,15.0,Libur Sekolah,49,Debit,6,21.0
+2020-04-17,Boneka,Boneka Doraemon,22968.0,12,275616.0,5.0,Ramadhan,129,Debit,4,22.0
+2021-05-30,Boneka,Boneka Lebaran,17114.0,18,308052.0,0.0,Lebaran,23,Debit,5,23.0
+2021-05-11,Boneka,Boneka Beruang,12993.0,37,480741.0,15.0,Lebaran,108,Debit,5,47.0
+2020-10-18,Boneka,Boneka Beruang,19699.0,28,551572.0,10.0,Hari Anak,54,Debit,10,31.0
+2021-07-02,Boneka,Boneka Minion,21388.0,27,577476.0,10.0,Normal,83,Debit,7,31.0
+2021-02-10,Bantal,Bantal Natal,19060.0,48,914880.0,10.0,Imlek / Valentine,150,Debit,2,43.0
+2023-10-14,Bantal,Bantal Lebaran,12832.0,37,474784.0,0.0,Hari Anak,75,Debit,10,33.0
+2023-12-02,Boneka,Boneka Lebaran,15970.0,38,606860.0,0.0,Natal / Tahun Baru,126,Debit,12,34.0
+2023-10-24,Bantal,Bantal Lebaran,23185.0,28,649180.0,10.0,Hari Anak,140,Debit,10,32.0
+2020-12-15,Boneka,Boneka Beruang,16572.0,42,696024.0,10.0,Natal / Tahun Baru,149,Debit,12,47.0
+2020-08-11,Bantal,Bantal Leher,18928.0,23,435344.0,10.0,Kemerdekaan,106,Debit,8,23.0
+2021-02-16,Bantal,Bantal Natal,18486.0,13,240318.0,10.0,Imlek / Valentine,119,Debit,2,15.0
+2021-12-25,Bantal,Bantal Lebaran,18868.0,43,811324.0,0.0,Natal / Tahun Baru,115,Debit,12,44.0
+2020-03-23,Bantal,Bantal Natal,13058.0,37,483146.0,0.0,Normal,76,Debit,3,39.0
+2021-11-26,Boneka,Boneka Minion,23342.0,40,933680.0,15.0,Normal,119,Debit,11,42.0
+2020-10-08,Bantal,Bantal Polos,12243.0,42,514206.0,5.0,Hari Anak,82,Debit,10,49.0
+2021-01-09,Boneka,Boneka Minion,15228.0,34,517752.0,0.0,Tahun Baru,90,Debit,1,31.0
+2023-02-11,Bantal,Bantal Natal,12978.0,28,363384.0,0.0,Imlek / Valentine,88,Debit,2,24.0
+2020-05-27,Boneka,Boneka Lebaran,16500.0,26,429000.0,5.0,Lebaran,54,Debit,5,28.0
+2022-03-15,Boneka,Boneka Lebaran,19556.0,44,860464.0,5.0,Normal,105,Debit,3,47.0
+2023-05-31,Bantal,Bantal Lebaran,22761.0,35,796635.0,5.0,Lebaran,21,Debit,5,34.0
+2022-07-29,Boneka,Boneka Minion,11522.0,25,288050.0,5.0,Normal,122,Debit,7,30.0
+2020-11-26,Boneka,Boneka Lebaran,23523.0,50,1176150.0,15.0,Normal,112,Debit,11,57.0
+2020-02-04,Boneka,Boneka Hello Kitty,10107.0,50,505350.0,0.0,Imlek / Valentine,28,Debit,2,51.0
+2022-07-07,Bantal,Bantal Leher,11075.0,9,99675.0,0.0,Normal,141,Debit,7,15.0
+2022-08-14,Bantal,Bantal Karakter,13772.0,24,330528.0,5.0,Kemerdekaan,126,Debit,8,28.0
+2020-09-04,Bantal,Bantal Karakter,23020.0,13,299260.0,5.0,Normal,103,Debit,9,16.0
+2021-10-22,Boneka,Boneka Minion,17780.0,43,764540.0,10.0,Hari Anak,106,Debit,10,45.0
+2022-11-29,Bantal,Bantal Natal,22492.0,30,674760.0,15.0,Normal,44,Debit,11,37.0
+2021-10-23,Boneka,Boneka Minion,15632.0,45,703440.0,10.0,Hari Anak,69,Debit,10,51.0
+2023-09-07,Boneka,Boneka Hello Kitty,21161.0,34,719474.0,15.0,Normal,125,Debit,9,31.0
+2020-08-10,Boneka,Boneka Doraemon,18632.0,46,857072.0,15.0,Kemerdekaan,30,Debit,8,48.0
+2022-02-03,Boneka,Boneka Lebaran,18318.0,25,457950.0,15.0,Imlek / Valentine,31,Debit,2,21.0
+2021-07-25,Bantal,Bantal Leher,18637.0,24,447288.0,10.0,Normal,122,Debit,7,21.0
+2022-12-20,Boneka,Boneka Natal,23826.0,21,500346.0,0.0,Natal / Tahun Baru,127,Debit,12,16.0
+2023-06-22,Bantal,Bantal Polos,22311.0,34,758574.0,15.0,Libur Sekolah,62,Debit,6,33.0
+2022-04-20,Bantal,Bantal Polos,16848.0,36,606528.0,15.0,Ramadhan,133,Debit,4,35.0
+2021-12-25,Bantal,Bantal Karakter,24235.0,8,193880.0,5.0,Natal / Tahun Baru,79,Debit,12,7.0
+2023-08-05,Boneka,Boneka Natal,16151.0,31,500681.0,5.0,Kemerdekaan,57,Debit,8,40.0
+2022-01-13,Bantal,Bantal Natal,16713.0,31,518103.0,15.0,Tahun Baru,31,Debit,1,26.0
+2020-06-19,Boneka,Boneka Natal,22958.0,38,872404.0,15.0,Libur Sekolah,24,Debit,6,33.0
+2022-03-28,Boneka,Boneka Beruang,10160.0,8,81280.0,5.0,Normal,100,Debit,3,16.0
+2022-06-30,Bantal,Bantal Natal,11334.0,10,113340.0,0.0,Libur Sekolah,109,Debit,6,15.0
+2020-08-11,Bantal,Bantal Polos,11093.0,34,377162.0,15.0,Kemerdekaan,148,Debit,8,36.0
+2021-01-19,Boneka,Boneka Minion,21268.0,46,978328.0,5.0,Tahun Baru,105,Debit,1,51.0
+2022-06-24,Boneka,Boneka Doraemon,18923.0,48,908304.0,0.0,Libur Sekolah,70,Debit,6,56.0
+2020-02-04,Bantal,Bantal Polos,14248.0,42,598416.0,15.0,Imlek / Valentine,38,Debit,2,43.0
+2020-11-30,Bantal,Bantal Polos,12409.0,12,148908.0,0.0,Normal,87,Debit,11,15.0
+2020-04-12,Bantal,Bantal Polos,16991.0,35,594685.0,10.0,Ramadhan,81,Debit,4,43.0
+2020-11-24,Bantal,Bantal Karakter,19428.0,45,874260.0,10.0,Normal,118,Debit,11,41.0
+2022-04-21,Boneka,Boneka Minion,21778.0,46,1001788.0,15.0,Ramadhan,136,Debit,4,50.0
+2021-10-16,Boneka,Boneka Beruang,18118.0,35,634130.0,10.0,Hari Anak,139,Debit,10,38.0
+2021-03-31,Bantal,Bantal Natal,20281.0,18,365058.0,0.0,Normal,57,Debit,3,20.0
+2021-11-10,Bantal,Bantal Lebaran,13182.0,50,659100.0,15.0,Normal,99,Debit,11,50.0
+2023-06-13,Boneka,Boneka Minion,12645.0,38,480510.0,15.0,Libur Sekolah,148,Debit,6,36.0
+2020-09-18,Boneka,Boneka Doraemon,10310.0,27,278370.0,0.0,Normal,57,Debit,9,28.0
+2020-01-06,Boneka,Boneka Doraemon,22666.0,17,385322.0,15.0,Tahun Baru,102,Debit,1,26.0
+2021-01-29,Boneka,Boneka Minion,14197.0,37,525289.0,5.0,Tahun Baru,106,Debit,1,38.0
+2022-03-30,Boneka,Boneka Lebaran,20420.0,28,571760.0,15.0,Normal,136,Debit,3,34.0
+2021-04-05,Boneka,Boneka Beruang,19349.0,41,793309.0,10.0,Ramadhan,65,Debit,4,36.0
+2021-05-14,Boneka,Boneka Beruang,18605.0,20,372100.0,5.0,Lebaran,121,Debit,5,22.0
+2021-08-08,Boneka,Boneka Doraemon,16456.0,12,197472.0,0.0,Kemerdekaan,146,Debit,8,9.0
+2022-11-15,Boneka,Boneka Doraemon,12997.0,25,324925.0,15.0,Normal,50,Debit,11,35.0
+2021-06-08,Bantal,Bantal Polos,13122.0,15,196830.0,10.0,Libur Sekolah,102,Debit,6,12.0
+2020-12-30,Bantal,Bantal Lebaran,18174.0,20,363480.0,15.0,Natal / Tahun Baru,78,Debit,12,18.0
+2020-12-04,Boneka,Boneka Doraemon,23893.0,23,549539.0,5.0,Natal / Tahun Baru,23,Debit,12,32.0
+2020-08-28,Bantal,Bantal Natal,24336.0,33,803088.0,15.0,Kemerdekaan,53,Debit,8,42.0
+2020-11-28,Boneka,Boneka Natal,16001.0,42,672042.0,15.0,Normal,108,Debit,11,45.0
+2022-07-18,Bantal,Bantal Natal,15010.0,22,330220.0,15.0,Normal,150,Debit,7,17.0
+2022-08-01,Bantal,Bantal Lebaran,19228.0,45,865260.0,10.0,Kemerdekaan,136,Debit,8,54.0
+2022-01-27,Boneka,Boneka Beruang,23244.0,21,488124.0,0.0,Tahun Baru,120,Debit,1,24.0
+2021-04-25,Boneka,Boneka Minion,16681.0,7,116767.0,10.0,Ramadhan,49,Debit,4,5.0
+2023-03-20,Boneka,Boneka Lebaran,13184.0,9,118656.0,10.0,Normal,107,Debit,3,13.0
+2021-04-03,Boneka,Boneka Beruang,10553.0,41,432673.0,5.0,Ramadhan,88,Debit,4,47.0
+2020-08-18,Boneka,Boneka Natal,13450.0,36,484200.0,15.0,Kemerdekaan,138,Debit,8,45.0
+2022-02-23,Bantal,Bantal Lebaran,12544.0,42,526848.0,5.0,Imlek / Valentine,58,Debit,2,42.0
+2020-12-29,Boneka,Boneka Minion,24153.0,40,966120.0,5.0,Natal / Tahun Baru,133,Debit,12,46.0
+2023-01-04,Bantal,Bantal Leher,16391.0,12,196692.0,10.0,Tahun Baru,126,Debit,1,15.0
+2023-04-19,Boneka,Boneka Minion,17500.0,33,577500.0,15.0,Ramadhan,57,Debit,4,42.0
+2021-06-09,Boneka,Boneka Minion,13890.0,24,333360.0,10.0,Libur Sekolah,137,Debit,6,33.0
+2021-03-31,Boneka,Boneka Hello Kitty,23431.0,31,726361.0,5.0,Normal,42,Debit,3,30.0
+2022-06-15,Boneka,Boneka Hello Kitty,19333.0,42,811986.0,10.0,Libur Sekolah,71,Debit,6,47.0
+2023-05-11,Boneka,Boneka Natal,10476.0,10,104760.0,10.0,Lebaran,150,Debit,5,12.0
+2023-03-29,Boneka,Boneka Natal,10937.0,28,306236.0,15.0,Normal,137,Debit,3,36.0
+2023-01-27,Bantal,Bantal Polos,19352.0,32,619264.0,10.0,Tahun Baru,97,Debit,1,37.0
+2020-07-26,Boneka,Boneka Beruang,10818.0,15,162270.0,5.0,Normal,89,Debit,7,13.0
+2022-04-03,Boneka,Boneka Minion,22645.0,32,724640.0,5.0,Ramadhan,35,Debit,4,37.0
+2022-10-25,Bantal,Bantal Polos,16247.0,12,194964.0,15.0,Hari Anak,138,Debit,10,12.0
+2021-04-08,Boneka,Boneka Lebaran,24562.0,31,761422.0,5.0,Ramadhan,52,Debit,4,29.0
+2020-10-20,Boneka,Boneka Doraemon,19425.0,21,407925.0,5.0,Hari Anak,107,Debit,10,21.0
+2022-12-21,Bantal,Bantal Karakter,20283.0,7,141981.0,5.0,Natal / Tahun Baru,29,Debit,12,14.0
+2023-03-27,Bantal,Bantal Leher,14606.0,22,321332.0,5.0,Normal,104,Debit,3,32.0
+2023-05-24,Bantal,Bantal Polos,23676.0,35,828660.0,15.0,Lebaran,91,Debit,5,44.0
+2022-03-20,Boneka,Boneka Minion,10523.0,32,336736.0,15.0,Normal,150,Debit,3,37.0
+2022-09-20,Bantal,Bantal Lebaran,16259.0,46,747914.0,5.0,Normal,145,Debit,9,49.0
+2023-01-19,Boneka,Boneka Doraemon,22024.0,14,308336.0,15.0,Tahun Baru,40,Debit,1,12.0
+2023-07-03,Bantal,Bantal Leher,24765.0,20,495300.0,0.0,Normal,95,Debit,7,20.0
+2021-09-02,Bantal,Bantal Leher,11537.0,35,403795.0,5.0,Normal,44,Debit,9,31.0
+2021-05-21,Bantal,Bantal Leher,14337.0,29,415773.0,0.0,Lebaran,86,Debit,5,37.0
+2022-09-17,Boneka,Boneka Hello Kitty,16344.0,19,310536.0,0.0,Normal,133,Debit,9,25.0
+2021-11-26,Bantal,Bantal Karakter,22604.0,32,723328.0,0.0,Normal,60,Debit,11,31.0
+2022-04-18,Bantal,Bantal Polos,17665.0,16,282640.0,5.0,Ramadhan,135,Debit,4,15.0
+2021-11-23,Bantal,Bantal Leher,15472.0,40,618880.0,15.0,Normal,95,Debit,11,43.0
+2022-03-19,Bantal,Bantal Karakter,21974.0,23,505402.0,0.0,Normal,36,Debit,3,31.0
+2023-11-05,Bantal,Bantal Natal,14660.0,13,190580.0,10.0,Normal,92,Debit,11,19.0
+2022-02-14,Bantal,Bantal Natal,15226.0,22,334972.0,5.0,Imlek / Valentine,142,Debit,2,23.0
+2021-02-25,Boneka,Boneka Beruang,18561.0,42,779562.0,15.0,Imlek / Valentine,133,Debit,2,41.0
+2021-06-04,Boneka,Boneka Minion,24738.0,47,1162686.0,15.0,Libur Sekolah,58,Debit,6,50.0
+2020-05-20,Bantal,Bantal Leher,21640.0,21,454440.0,0.0,Lebaran,25,Debit,5,24.0
+2023-03-27,Bantal,Bantal Leher,10596.0,23,243708.0,5.0,Normal,143,Debit,3,22.0
+2023-03-20,Boneka,Boneka Natal,23514.0,19,446766.0,5.0,Normal,25,Debit,3,14.0
+2023-07-02,Bantal,Bantal Leher,12850.0,34,436900.0,5.0,Normal,55,Debit,7,38.0
+2022-10-28,Boneka,Boneka Minion,22612.0,16,361792.0,5.0,Hari Anak,26,Debit,10,13.0
+2023-10-04,Boneka,Boneka Doraemon,20943.0,27,565461.0,15.0,Hari Anak,148,Debit,10,35.0
+2020-01-09,Boneka,Boneka Beruang,13149.0,11,144639.0,0.0,Tahun Baru,99,Debit,1,7.0
+2023-11-14,Boneka,Boneka Natal,10338.0,49,506562.0,0.0,Normal,91,Debit,11,49.0
+2020-10-06,Bantal,Bantal Karakter,23739.0,17,403563.0,0.0,Hari Anak,94,Debit,10,23.0
+2022-01-01,Bantal,Bantal Polos,18215.0,16,291440.0,0.0,Tahun Baru,93,Debit,1,12.0
+2023-09-26,Bantal,Bantal Polos,19910.0,19,378290.0,10.0,Normal,126,Debit,9,18.0
+2023-09-07,Bantal,Bantal Lebaran,13753.0,9,123777.0,0.0,Normal,107,Debit,9,4.0
+2021-11-15,Boneka,Boneka Doraemon,17585.0,45,791325.0,10.0,Normal,80,Debit,11,43.0
+2020-10-10,Boneka,Boneka Hello Kitty,21264.0,38,808032.0,10.0,Hari Anak,25,Debit,10,47.0
+2023-09-28,Bantal,Bantal Leher,11396.0,23,262108.0,0.0,Normal,134,Debit,9,19.0
+2020-09-17,Bantal,Bantal Karakter,15652.0,36,563472.0,15.0,Normal,59,Debit,9,40.0
+2021-05-01,Bantal,Bantal Polos,18678.0,22,410916.0,5.0,Lebaran,50,Debit,5,18.0
+2020-04-27,Bantal,Bantal Karakter,18551.0,34,630734.0,10.0,Ramadhan,122,Debit,4,42.0
+2020-12-09,Bantal,Bantal Leher,20553.0,42,863226.0,5.0,Natal / Tahun Baru,140,Debit,12,50.0
+2021-02-01,Bantal,Bantal Lebaran,21707.0,11,238777.0,15.0,Imlek / Valentine,89,Debit,2,12.0
+2021-11-04,Bantal,Bantal Leher,20304.0,6,121824.0,15.0,Normal,135,Debit,11,2.0
+2022-09-09,Boneka,Boneka Beruang,21050.0,40,842000.0,5.0,Normal,92,Debit,9,43.0
+2020-09-28,Boneka,Boneka Doraemon,14036.0,23,322828.0,0.0,Normal,93,Debit,9,22.0
+2020-04-18,Bantal,Bantal Polos,13530.0,49,662970.0,5.0,Ramadhan,45,Debit,4,59.0
+2023-09-05,Bantal,Bantal Leher,14334.0,19,272346.0,5.0,Normal,26,Debit,9,18.0
+2022-10-07,Bantal,Bantal Lebaran,11749.0,6,70494.0,5.0,Hari Anak,85,Debit,10,7.0
+2021-10-15,Bantal,Bantal Lebaran,21398.0,34,727532.0,5.0,Hari Anak,76,Debit,10,30.0
+2022-11-06,Bantal,Bantal Polos,17504.0,10,175040.0,10.0,Normal,87,Debit,11,15.0
+2020-05-24,Bantal,Bantal Lebaran,16372.0,17,278324.0,15.0,Lebaran,127,Debit,5,19.0
+2023-11-03,Bantal,Bantal Lebaran,16431.0,21,345051.0,15.0,Normal,53,Debit,11,26.0
+2022-02-03,Bantal,Bantal Karakter,11401.0,6,68406.0,0.0,Imlek / Valentine,24,Debit,2,15.0
+2020-03-22,Bantal,Bantal Karakter,14667.0,50,733350.0,15.0,Normal,113,Debit,3,55.0
+2022-04-19,Bantal,Bantal Polos,16777.0,33,553641.0,5.0,Ramadhan,124,Debit,4,41.0
+2022-10-17,Boneka,Boneka Natal,22297.0,8,178376.0,10.0,Hari Anak,40,Debit,10,6.0
+2021-03-11,Boneka,Boneka Minion,14833.0,9,133497.0,5.0,Normal,111,Debit,3,5.0
+2025-01-10,Boneka,Boneka Singa,20000.0,5,100000.0,0.0,Umum,10,Transfer,1,10.0
+2025-01-10,Boneka,Boneka Gajah,20000.0,10,200000.0,0.0,Umum,15,Transfer,1,15.0
+2025-01-10,Boneka,Boneka Beruang,20000.0,15,300000.0,0.0,Umum,20,Transfer,1,20.0
+2025-06-23,Boneka,Boneka Harimau,20000.0,5,100000.0,0.0,Biasa,10,Tunai,6,10.0
+2025-06-23,Boneka,Boneka Panda,20000.0,5,100000.0,0.0,Biasa,10,Tunai,6,10.0
+2025-06-20,Boneka,Boneka Chetah,20000.0,5,100000.0,0.0,Biasa,10,Tunai,6,10.0
+2025-06-20,Boneka,Boneka Chetah,20000.0,5,100000.0,0.0,Biasa,10,Tunai,6,10.0
+2025-06-21,Boneka,Boneka Chetah,20000.0,5,100000.0,0.0,Biasa,10,Tunai,6,10.0
+2025-06-22,Boneka,Boneka Singa,20000.0,5,100000.0,0.0,Biasa,10,Tunai,6,10.0
+2025-07-03,Boneka,Boneka Singa,20000.0,5,100000.0,0.0,Biasa,10,Tunai,7,15.0
