@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import os
 from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPRegressor
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
@@ -7,8 +8,10 @@ from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import mean_squared_error, r2_score
 
-# === 1. Load dataset ===
-data_path = 'data/dataset.csv'
+data_path = 'dataset.csv'
+if not os.path.exists(data_path):
+    raise FileNotFoundError(f"File dataset '{data_path}' tidak ditemukan.")
+
 df = pd.read_csv(data_path)
 df.columns = df.columns.str.strip()
 
@@ -120,3 +123,4 @@ print("\nHasil Perbandingan Model:")
 print(results_df)
 results_df.to_csv('hasil_perbandingan_mlp.csv', index=False)
 print("\nHasil disimpan ke 'hasil_perbandingan_mlp.csv'")
+
